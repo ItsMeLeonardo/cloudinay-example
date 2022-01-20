@@ -1,0 +1,20 @@
+{
+  "name": "cloudinay-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "1.28.1",
+    "cors": "2.8.5",
+    "dotenv": "14.2.0",
+    "express": "4.17.2",
+    "multer": "1.4.4"
+  }
+}
